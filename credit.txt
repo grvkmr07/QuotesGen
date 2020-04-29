@@ -1,8 +1,6 @@
 ******************* This is an Undergraduate mini project to implement the learnings of Text Generation as an application of NLP ************************
 Credit for the dataset rests with the collection of quotes from: 
-
-					www.goodreads.com
-			
+					www.goodreads.com			
 Credit for the additions in this dataset rests with Gourav Kumar
 Credit for all the quotes rests with respective popular fellows who inspires millions
 Credit for the Notebook Reference for Text Generation rests with: 
@@ -19,4 +17,4 @@ Credit for making people believe and inculcating the passion for Machine Learnin
 					Adjunct Professor, Stanford University
 					Creator of the great material: Machine Learning Course, Coursera
 The course "Tensorflow in Practice Specialization" from deeplearning.ai through MOOC platform: Coursera certifies Gourav Kumar's authentic enrollment and passing the specialization with distinction. 
-Gourav Kumar is hereby entitled for his successful contribution to the project development, the original credit rests with the mentioned authors. 
+Gourav Kumar is hereby entitled for his contribution to the project development, the original credit rests with the mentioned authors.
